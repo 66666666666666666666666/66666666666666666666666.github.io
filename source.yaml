@@ -1,24 +1,19 @@
-# 模糊抓取订阅链接
 - type: webfuzzsub
   options:
     url: https://raw.githubusercontent.com/du5/free/master/sub.list
 
-# 订阅链接
 - type: subscribe
   options:
     url: https://raw.githubusercontent.com/ssrsub/ssr/master/v2ray
 
-# 网页模糊抓取
 - type: webfuzz
   options:
     url: https://merlinblog.xyz/wiki/freess.html
 
-# 翻墙党论坛抓取
 - type: web-fanqiangdang
   options:
     url: https://fanqiangdang.com/forum-48-1.html
 
-# clash格式订阅链接
 - type: clash
   options:
     url: https://raw.githubusercontent.com/du5/free/master/file/0909/Clash.yaml
@@ -31,57 +26,43 @@
 - type: clash
   options:
     url: https://proxypool.ga/clash/proxies?c=CN,HK,TW,KR,JP,SG
-
-# 某个网站抓取
+    
 - type: web-freessrxyz
   options:
     url: https://raw.githubusercontent.com/jsnjsnwbtwbt/2D2F/main/2C2F
 
-# 某个网站抓取
 - type: web-freessrxyz
   options:
     url: https://raw.githubusercontent.com/jsnjsnwbtwbt/TEzNC1jOTY1ZGE5OWM1ZT/main/Stable
     
-    # 某个网站抓取
 - type: web-freessrxyz
   options:
     url: https://raw.githubusercontent.com/coolapijust/cxkv2-/main/IPLC
-    
-    # 某个网站抓取
+
 - type: web-freessrxyz
   options:
     url: https://raw.githubusercontent.com/coolapijust/cxkv2-/main/README.md
     
-    # 某个网站抓取
 - type: web-freessrxyz
   options:
-    url: https://raw.githubusercontent.com/coolapijust/cxkv2-/main/SurfShark
-    
-    # 某个网站抓取
-- type: web-freessrxyz
-  options:
-    
-    # 某个网站抓取
+
 - type: web-freessrxyz
   options:
     url: https://raw.githubusercontent.com/coolapijust/cxkv2-/main/plate
     
-    # 某个网站抓取
-- type: web-freessrxyz
+- type: clash
   options:
     url: https://bihai.cf/clash/proxies
     
-    # 某个网站抓取
-- type: web-freessrxyz
+- type: subscribe
   options:
     url: https://sspool.herokuapp.com/vmess/sub
     
-    # 某个网站抓取
-- type: web-freessrxyz
+- type: clash
   options:
     url: https://proxy.moneyfly.club/clash/proxies?c=HK,TW,US
     
-    # 某个网站抓取
-- type: web-freessrxyz
+- type: subscribe
   options:
     url: https://proxypoolsstest.herokuapp.com/vmess/sub
+

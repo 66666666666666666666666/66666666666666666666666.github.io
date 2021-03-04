@@ -1,13 +1,13 @@
 # your domain
 domain: proxytool.herokuapp.com
-port: 80                # default 12580
+port:                 # default 12580
 
 # source list file
 source-files:
   # use local file
-  - ./source.yaml
+  #- ./source.yaml
   # use web file
-  # - https://example.com/config/source.yaml
+   - https://66666666666666666666666.github.io/source.yaml
 
 # ======= 可选项，留空使用default值  =======
 

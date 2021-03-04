@@ -36,12 +36,52 @@
 - type: web-freessrxyz
   options:
     url: https://raw.githubusercontent.com/jsnjsnwbtwbt/2D2F/main/2C2F
+
+# 某个网站抓取
+- type: web-freessrxyz
+  options:
     url: https://raw.githubusercontent.com/jsnjsnwbtwbt/TEzNC1jOTY1ZGE5OWM1ZT/main/Stable
+    
+    # 某个网站抓取
+- type: web-freessrxyz
+  options:
     url: https://raw.githubusercontent.com/coolapijust/cxkv2-/main/IPLC
+    
+    # 某个网站抓取
+- type: web-freessrxyz
+  options:
     url: https://raw.githubusercontent.com/coolapijust/cxkv2-/main/README.md
+    
+    # 某个网站抓取
+- type: web-freessrxyz
+  options:
     url: https://raw.githubusercontent.com/coolapijust/cxkv2-/main/SurfShark
+    
+    # 某个网站抓取
+- type: web-freessrxyz
+  options:
+    
+    # 某个网站抓取
+- type: web-freessrxyz
+  options:
     url: https://raw.githubusercontent.com/coolapijust/cxkv2-/main/plate
+    
+    # 某个网站抓取
+- type: web-freessrxyz
+  options:
     url: https://bihai.cf/clash/proxies
+    
+    # 某个网站抓取
+- type: web-freessrxyz
+  options:
     url: https://sspool.herokuapp.com/vmess/sub
+    
+    # 某个网站抓取
+- type: web-freessrxyz
+  options:
     url: https://proxy.moneyfly.club/clash/proxies?c=HK,TW,US
+    
+    # 某个网站抓取
+- type: web-freessrxyz
+  options:
     url: https://proxypoolsstest.herokuapp.com/vmess/sub

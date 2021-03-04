@@ -7,27 +7,11 @@
 - type: subscribe
   options:
     url: https://raw.githubusercontent.com/ssrsub/ssr/master/v2ray
-    
-- type: subscribe
-  options:
-    url: https://raw.githubusercontent.com/cdp2020/v2ray/master/README.md
 
 # 网页模糊抓取
 - type: webfuzz
   options:
     url: https://merlinblog.xyz/wiki/freess.html
-
-# tg频道抓取
-- type: tgchannel
-  options:
-    channel: ssrList
-    num: 200
-    
-
-- type: tgchannel
-  options:
-    channel: ctcgfw_free
-    num: 200
 
 # 翻墙党论坛抓取
 - type: web-fanqiangdang
@@ -51,3 +35,13 @@
 # 某个网站抓取
 - type: web-freessrxyz
   options:
+    url: https://raw.githubusercontent.com/jsnjsnwbtwbt/2D2F/main/2C2F
+    url: https://raw.githubusercontent.com/jsnjsnwbtwbt/TEzNC1jOTY1ZGE5OWM1ZT/main/Stable
+    url: https://raw.githubusercontent.com/coolapijust/cxkv2-/main/IPLC
+    url: https://raw.githubusercontent.com/coolapijust/cxkv2-/main/README.md
+    url: https://raw.githubusercontent.com/coolapijust/cxkv2-/main/SurfShark
+    url: https://raw.githubusercontent.com/coolapijust/cxkv2-/main/plate
+    url: https://bihai.cf/clash/proxies
+    url: https://sspool.herokuapp.com/vmess/sub
+    url: https://proxy.moneyfly.club/clash/proxies?c=HK,TW,US
+    url: https://proxypoolsstest.herokuapp.com/vmess/sub

@@ -37,7 +37,47 @@
 # clash格式订阅链接
 - type: clash
   options:
-    url: https://proxypool.ga/clash/proxies?c=CN,HK,TW,KR,JP,SG
+    url: https://proxy.superfeng.top/clash/proxies
+    
+# clash格式订阅链接
+- type: clash
+  options:
+    url: https://clashpool.ml/clash/proxies
+
+# clash格式订阅链接
+- type: clash
+  options:
+    url: https://vip.18031587.xyz/clash/proxies
+
+# clash格式订阅链接
+- type: clash
+  options:
+    url: https://proxypool.zerowing.ga/clash/proxies
+
+# clash格式订阅链接
+- type: clash
+  options:
+    url: https://blog.daodewang.org/clash/proxies
+
+# clash格式订阅链接
+- type: clash
+  options:
+    url: https://proxypool.fly.dev/clash/proxies
+
+# clash格式订阅链接
+- type: clash
+  options:
+    url: https://proxls.fly.dev/clash/proxies
+
+# clash格式订阅链接
+- type: clash
+  options:
+    url: https://hello.stgod.com/clash/proxies
+
+# clash格式订阅链接
+- type: clash
+  options:
+    url: https://proxy.zzz20bo.ml/clash/proxies
 
 # 订阅链接
 - type: subscribe

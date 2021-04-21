@@ -1,68 +1,110 @@
+# 模糊抓取订阅链接
 - type: webfuzzsub
   options:
     url: https://raw.githubusercontent.com/du5/free/master/sub.list
 
+# 订阅链接
 - type: subscribe
   options:
     url: https://raw.githubusercontent.com/ssrsub/ssr/master/v2ray
 
+# 网页模糊抓取
 - type: webfuzz
   options:
     url: https://merlinblog.xyz/wiki/freess.html
 
+# tg频道抓取
+- type: tgchannel
+  options:
+    channel: ssrList
+    num: 200
+    
+# 翻墙党论坛抓取
 - type: web-fanqiangdang
   options:
     url: https://fanqiangdang.com/forum-48-1.html
 
-- type: clash
+# 模糊抓取订阅链接
+- type: webfuzzsub
   options:
-    url: https://raw.githubusercontent.com/du5/free/master/file/0909/Clash.yaml
-    url: https://proxypoolss.tk/clash/proxies?c=CN,HK,TW,KR,JP,SG
+    url: https://raw.githubusercontent.com/du5/free/master/file/0407/clash.yaml
     
+# clash格式订阅链接
 - type: clash
   options:
     url: https://bihai.cf/clash/proxies
-    
+
+# clash格式订阅链接
 - type: clash
   options:
-    url: https://proxypool.ga/clash/proxies?c=CN,HK,TW,KR,JP,SG
+    url: https://proxy.superfeng.top/clash/proxies
     
-- type: web-freessrxyz
+# clash格式订阅链接
+- type: clash
+  options:
+    url: https://clashpool.ml/clash/proxies
+
+# clash格式订阅链接
+- type: clash
+  options:
+    url: https://vip.18031587.xyz/clash/proxies
+
+# clash格式订阅链接
+- type: clash
+  options:
+    url: https://proxypool.zerowing.ga/clash/proxies
+
+# clash格式订阅链接
+- type: clash
+  options:
+    url: https://blog.daodewang.org/clash/proxies
+
+# clash格式订阅链接
+- type: clash
+  options:
+    url: https://proxypool.fly.dev/clash/proxies
+
+# clash格式订阅链接
+- type: clash
+  options:
+    url: https://proxls.fly.dev/clash/proxies
+
+# clash格式订阅链接
+- type: clash
+  options:
+    url: https://hello.stgod.com/clash/proxies
+
+# clash格式订阅链接
+- type: clash
+  options:
+    url: https://proxy.zzz20bo.ml/clash/proxies
+
+# 订阅链接
+- type: subscribe
   options:
     url: https://raw.githubusercontent.com/jsnjsnwbtwbt/2D2F/main/2C2F
 
-- type: web-freessrxyz
+# 订阅链接
+- type: subscribe
   options:
     url: https://raw.githubusercontent.com/jsnjsnwbtwbt/TEzNC1jOTY1ZGE5OWM1ZT/main/Stable
     
-- type: web-freessrxyz
+# 订阅链接
+- type: subscribe
   options:
     url: https://raw.githubusercontent.com/coolapijust/cxkv2-/main/IPLC
 
-- type: web-freessrxyz
+# 订阅链接
+- type: subscribe
   options:
     url: https://raw.githubusercontent.com/coolapijust/cxkv2-/main/README.md
-    
-- type: web-freessrxyz
-  options:
 
-- type: web-freessrxyz
+# 订阅链接
+- type: subscribe
   options:
     url: https://raw.githubusercontent.com/coolapijust/cxkv2-/main/plate
-    
-- type: clash
-  options:
-    url: https://bihai.cf/clash/proxies
-    
-- type: subscribe
-  options:
-    url: https://sspool.herokuapp.com/vmess/sub
-    
-- type: clash
-  options:
-    url: https://proxy.moneyfly.club/clash/proxies?c=HK,TW,US
-    
-- type: subscribe
-  options:
-    url: https://proxypoolsstest.herokuapp.com/vmess/sub
 
+# clash格式订阅链接
+- type: clash
+  options:
+    url: https://sspool.herokuapp.com/clash/proxies
